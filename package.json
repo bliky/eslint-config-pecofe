@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tubatufe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "'WEB前端开发规范（土巴兔大数据中心基础平台部）'",
   "main": "index.js",
   "scripts": {
